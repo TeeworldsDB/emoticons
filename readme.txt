@@ -8,6 +8,16 @@
     notes:
     tags:
     sha1: ba34dd269c0f2d06e43378a3c0ba6dd78ff8d6a7
+- emoticons_by_eLem3ntx.png
+    author:
+    notes: http://teeworlds.fr/ http://teeworlds.net/
+    tags:
+    sha1: fc38c716a719a7bd5af672b49caf044dbef921f5
+- emoticons_DomoKun_by_101kl.png
+    author:
+    notes: http://teeworlds.fr/ http://teeworlds.net/
+    tags:
+    sha1: ee1a0cb2192b58c14264aa422833e1447c16df40
 - emoticons_no_u_3d.png
     author: fokkonaut
     notes:
@@ -28,4 +38,3 @@
     notes:
     tags:
     sha1: 0119d6dd594881cc69ab505b6d7a30265de99373
-
